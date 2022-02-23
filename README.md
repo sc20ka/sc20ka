@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sc20ka
 - 👀 I’m interested in microarchitecture,assembling,disassembling,RF,analog,digital,RC,... ...all¿
-- 🌱 I’m currently learning vhdl, verilog, C++, C, python,
+- 🌱 I’m currently learning vhdl, verilog, C++, C#, C, python,
 - 💞️ I’m looking to collaborate on people :)
  
 
